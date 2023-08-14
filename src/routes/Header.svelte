@@ -32,8 +32,8 @@
 	</nav>
 
 	<div class="corner">
-		<a href="https://github.com/sveltejs/kit">
-			<img src={github} alt="GitHub" />
+		<a href="https://github.com/huggler">
+			<img src={github} alt="GitHub Huggler" />
 		</a>
 	</div>
 </header>
