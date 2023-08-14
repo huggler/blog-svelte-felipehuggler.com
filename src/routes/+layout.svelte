@@ -25,7 +25,7 @@
 	</main>
 
 	<footer>
-		<p>Acessa meu linkedin <a href="https://www.linkedin.com/in/felipehuggler/" target="_blank"></a></p>
+		<p><a href="https://www.linkedin.com/in/felipehuggler/" target="_blank">Conecte-se no meu Linkedin</a></p>
 	</footer>
 </div>
 
