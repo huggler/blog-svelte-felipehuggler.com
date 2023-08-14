@@ -3,24 +3,18 @@
 	<meta name="description" content="About this app" />
 </svelte:head>
 
-<div class="text-column">
-	<h1>About this app</h1>
-
-	<p>
-		This is a <a href="https://kit.svelte.dev">SvelteKit</a> app. You can make your own by typing the
-		following into your command line and following the prompts:
-	</p>
-
-	<pre>npm create svelte@latest</pre>
-
-	<p>
-		The page you're looking at is purely static HTML, with no client-side interactivity needed.
-		Because of that, we don't need to load any JavaScript. Try viewing the page's source, or opening
-		the devtools network panel and reloading.
-	</p>
-
-	<p>
-		The <a href="/sverdle">Sverdle</a> page illustrates SvelteKit's data loading and form handling. Try
-		using it with JavaScript disabled!
-	</p>
+<div class="text-center">
+	<h1>Sobre mim...</h1>
+	<img src="/images/felipe-huggler.png" class="profile-image" alt="Felipe Huggler Luz" />
+	<div class="text-3xl p-4">
+		<p class="mb-10">
+			Este site tem como objetivo contar um pouco sobre meu perfil pessoal e profissional afim de dar mais confiança e credibilidade para as pessoas e empresas que quiserem se conectar comigo.
+		</p>
+		<p class="mb-10">
+			Também tem o intuito de ser um repositório de tudo aquilo que eu estudo e vejo no dia a dia e acabo sempre utilizando mas tendo que voltar na internet pra pesquisar sobre determinado assunto.
+		</p>
+		<p>
+			Esta aplicação está sendo desenvovida em svelte/typescript e possivelmente acessará alguma base de dados que eu não sei ainda qual irei implementar.
+		</p>
+	</div>
 </div>

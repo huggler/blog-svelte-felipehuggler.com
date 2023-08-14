@@ -25,7 +25,7 @@
 	</main>
 
 	<footer>
-		<p>visit <a href="https://kit.svelte.dev">kit.svelte.dev</a> to learn SvelteKit</p>
+		<p>Acessa meu linkedin <a href="https://www.linkedin.com/in/felipehuggler/" target="_blank"></a></p>
 	</footer>
 </div>
 
