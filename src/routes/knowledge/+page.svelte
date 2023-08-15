@@ -11,7 +11,7 @@
 	<h1 class="title text-3xl font-medium md:text-4xl mb-4">Quem é Felipe Huggler?</h1>
 	<img src="/images/felipe-huggler.jpg" class="m-auto rounded-full mb-10" alt="Felipe Huggler Luz" />
 
-	<h1 class="text-3xl mb-6">Um pouco do que eu aprendi no decorrer da minha carreira... e pra testar o hover do tailwind :)</h1>
+	<p class="mb-6">Um pouco do que eu aprendi no decorrer da minha carreira... e pra testar o hover do tailwind :)</p>
 
 		<ul class="container m-auto grid grid-cols-1 md:grid-cols-3 gap-4 mb-4">
 

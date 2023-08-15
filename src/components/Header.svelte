@@ -20,7 +20,7 @@
 	</nav>
 
 	<div class="absolute top-3 right-3">
-		<a href="https://github.com/huggler" class="block">
+		<a href="https://github.com/huggler" target="_blank" class="block">
 			<img src={github} alt="GitHub Huggler" width="24" height="24" />
 		</a>
 	</div>
@@ -34,7 +34,6 @@
 	nav {
 		display: flex;
 		justify-content: center;
-		--background: rgba(255, 255, 255, 0.7);
 	}
 
 	ul {
