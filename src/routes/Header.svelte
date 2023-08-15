@@ -22,8 +22,8 @@
 			<li aria-current={$page.url.pathname === '/about' ? 'page' : undefined}>
 				<a href="/about">About</a>
 			</li>
-			<li aria-current={$page.url.pathname.startsWith('/sverdle') ? 'page' : undefined}>
-				<a href="/sverdle">Sverdle</a>
+			<li aria-current={$page.url.pathname.startsWith('/knowledge') ? 'page' : undefined}>
+				<a href="/knowledge">Knowledge</a>
 			</li>
 		</ul>
 		<svg viewBox="0 0 2 3" aria-hidden="true">
@@ -31,7 +31,7 @@
 		</svg>
 	</nav>
 
-	<div class="corner">
+	<div class="">
 		<a href="https://github.com/huggler">
 			<img src={github} alt="GitHub Huggler" />
 		</a>

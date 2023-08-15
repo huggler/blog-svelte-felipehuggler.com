@@ -24,8 +24,9 @@
 		<slot />
 	</main>
 
-	<footer>
-		<p><a href="https://www.linkedin.com/in/felipehuggler/" target="_blank">Conecte-se no meu Linkedin</a></p>
+	<footer class="m-auto mb-4">
+		<p><a href="https://www.linkedin.com/in/felipehuggler/" target="_blank" class="bg-blue-700 text-white p-5 rounded-full px-8">Conecte-se no meu Linkedin</a></p>
+
 	</footer>
 </div>
 
@@ -33,7 +34,6 @@
 	.app {
 		display: flex;
 		flex-direction: column;
-		min-height: 100vh;
 	}
 
 	main {
@@ -47,21 +47,5 @@
 		box-sizing: border-box;
 	}
 
-	footer {
-		display: flex;
-		flex-direction: column;
-		justify-content: center;
-		align-items: center;
-		padding: 12px;
-	}
 
-	footer a {
-		font-weight: bold;
-	}
-
-	@media (min-width: 480px) {
-		footer {
-			padding: 12px 0;
-		}
-	}
 </style>
