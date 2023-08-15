@@ -17,8 +17,11 @@
 	color: var(--color-text);
 }
 
+html, body {
+	height: 100%;
+}
+
 body {
-	min-height: 100vh;
 	margin: 0;
 	background-attachment: fixed;
 	background-color: var(--color-bg-1);
