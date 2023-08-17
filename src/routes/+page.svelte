@@ -1,3 +1,6 @@
+<script>
+	import Profile from "../components/Profile.svelte";
+</script>
 <svelte:head>
 	<title>FelipeHuggler.com</title>
 	<meta name="description" content="FelipeHuggler.com - perfil pesssoal e profissional" />
@@ -5,8 +8,7 @@
 
 <section>
 	<div class="text-center">
-		<h1 class="title text-3xl font-medium md:text-4xl mb-4">Quem é Felipe Huggler?</h1>
-		<img src="/images/felipe-huggler.jpg" class="m-auto rounded-full mb-10" alt="Felipe Huggler Luz" />
+		<Profile />
 		<div class="text-sm md:text-base">
 			<p class="mb-10">
 				Este site tem como objetivo contar um pouco sobre meu perfil pessoal e profissional afim de dar mais confiança e credibilidade para as pessoas e empresas que quiserem se conectar comigo.

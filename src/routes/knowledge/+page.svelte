@@ -1,4 +1,5 @@
 <script>
+	import Profile from "../../components/Profile.svelte";
 	let items = ['HTML', 'CSS', 'JAVASCRIPT', 'NODEJS', 'REACT', 'MONGODB', 'SQLSEVER', 'MYSQL', 'USABILIDADE', 'ACESSIBILIDADE', 'BOOTSTRAP', 'MATERIAL-UI', 'TAILWIND', 'SEGURANÇA', 'INFRA'];
 </script>
 
@@ -8,8 +9,7 @@
 </svelte:head>
 
 <div class="text-center">
-	<h1 class="title text-3xl font-medium md:text-4xl mb-4">Quem é Felipe Huggler?</h1>
-	<img src="/images/felipe-huggler.jpg" class="m-auto rounded-full mb-10" alt="Felipe Huggler Luz" />
+	<Profile />
 
 	<p class="mb-6">Um pouco do que eu aprendi no decorrer da minha carreira... e pra testar o hover do tailwind :)</p>
 
