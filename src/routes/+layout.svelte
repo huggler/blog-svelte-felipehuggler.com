@@ -18,33 +18,12 @@
 	}
 </script>
 
-<div class="app">
+<div class="app flex flex-col h-full">
 	<Header />
 
-	<main>
+	<main class="flex-1 flex flex-col p-10 m-auto overflow-auto w-full">
 		<slot />
 	</main>
 
 	<Footer />
 </div>
-
-<style>
-	.app {
-		display: flex;
-		flex-direction: column;
-		height: 100%;
-	}
-
-	main {
-		flex: 1;
-		display: flex;
-		flex-direction: column;
-		padding: 1rem;
-		overflow: auto;
-		width: 100%;
-		margin: 0 auto;
-		box-sizing: border-box;
-	}
-
-
-</style>
