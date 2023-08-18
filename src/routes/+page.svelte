@@ -14,7 +14,7 @@
 				Este website tem como objetivo contar um pouco sobre meu perfil pessoal e informações profissionais a fim de dar mais confiança e credibilidade para as pessoas e empresas que queiram se conectar comigo.
 			</p>
 			<p class="mb-10">
-				Eu não sou ninguém especial e muito menos um influenciar ou ex-BBB.
+				Felipe Huggler, é uma pessoa alegre, bem humorada, com espírito positivo e motivador... está sempre a disposição para ajudar no que for preciso e esteja ao seu alcance.
 			</p>
 			<p class="mb-10">
 				Eu sou criador da 
